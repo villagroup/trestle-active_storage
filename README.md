@@ -4,6 +4,14 @@
 
 [![Gem](https://img.shields.io/gem/v/trestle-active_storage.svg)](https://rubygems.org/gems/trestle-active_storage)
 
+---
+
+> The original team looks like they will no longer be maintaining this gem. This repository does **not** guarantee anything, it will be kept updated as we update our internal products and the new features will be limited to the needs of our projects.
+
+> Critical bugs and security issues will be fixed as soon as possible.
+
+---
+
 ## Usage
 
 Define the active storage fields in your Trestle resource and use the `active_storage_field` field type:
