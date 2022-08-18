@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    trestle-active_storage (3.0.1)
+    trestle-active_storage (3.1.0)
       rails (>= 5.2)
       trestle (~> 0.9.0, >= 0.9.3)
 
